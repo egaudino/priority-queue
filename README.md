@@ -1,6 +1,8 @@
 # priority-queue
 > Priority Queue to Serve Students
 
+> Time complexity for getStudents is O(log(N))
+
 ## Installation
 
 Build:
